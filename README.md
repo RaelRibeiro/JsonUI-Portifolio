@@ -30,7 +30,7 @@ With JsonUI, I build **creative, optimized, and player-friendly UIs** for server
 ---
 
 ## 🖼️ Screenshots & Previews
-*(Here you can add images/GIFs of your JsonUI projects to make the README more attractive)*  
+*...*
 
 ---
 
