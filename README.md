@@ -35,9 +35,9 @@ With JsonUI, I build **creative, optimized, and player-friendly UIs** for server
 ---
 
 ## 🛠️ Tools & Skills
-- JsonUI for Minecraft Bedrock  
-- UI/UX design principles applied to in-game menus  
-- Optimization for performance and compatibility  
+- JsonUI for Minecraft Bedrock 
+- Optimization for performance and compatibility
+- Responsive design across all UIs
 
 ---
 
@@ -45,7 +45,7 @@ With JsonUI, I build **creative, optimized, and player-friendly UIs** for server
 Want a **custom JsonUI** for your server or project?  
 I’m open for **commissions** — from small tweaks to full UI redesigns.  
 
-📬 Contact me on Discord: **yourUser#1234**  
+📬 Contact me on Discord: **lipe.11**  
 
 ---
 
