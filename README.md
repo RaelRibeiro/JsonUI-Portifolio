@@ -30,13 +30,13 @@ With JsonUI, I build **creative, optimized, and player-friendly UIs** for server
 ---
 
 ## 🖼️ Screenshots & Previews
-[Custom Interactive Dialog UI](dialog_ui.png)
-[Huge Text Editor UI](editor_text_ui.png)
-[Loading Screen With Custom Animations](loading_screen_ui.png)
-[Custom Movie Screen](movie_screen_ui.png)
-A Shapes UI: [One](shapes_ui_one.png) | [Two](shapes_ui_two.png)
-[Health and Stamina BAR](stamina_health_bar_ui.png)
-[Attributes UI](stats_ui.png)
+- [Custom Interactive Dialog UI](dialog_ui.png)
+- [Huge Text Editor UI](editor_text_ui.png)
+- [Loading Screen With Custom Animations](loading_screen_ui.png)
+- [Custom Movie Screen](movie_screen_ui.png)
+- A Shapes UI: [One](shapes_ui_one.png) | [Two](shapes_ui_two.png)
+- [Health and Stamina BAR](stamina_health_bar_ui.png)
+- [Attributes UI](stats_ui.png)
 
 ---
 
